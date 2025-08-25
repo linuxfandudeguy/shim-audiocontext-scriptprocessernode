@@ -1,4 +1,5 @@
 // script-processor-polyfill.mjs
+// https://github.com/linuxfandudeguy/shim-audiocontext-scriptprocessernode ==== MIT
 // Auto-applying polyfill for ScriptProcessorNode using AudioWorkletNode (ESM)
 
 class AudioBufferWrapper {
